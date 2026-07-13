@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Datasets
+dataset/
+dataset.zip
+*.csv
+*.parquet
+*.h5
+
+# macOS
+.DS_Store
